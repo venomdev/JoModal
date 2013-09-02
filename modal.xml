@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+        <name>plg_content_modal</name>
+        <author>Mael Guillossou</author>
+        <creationDate>March 31th, 2013</creationDate>
+        <copyright>Mael Guillossou</copyright>
+        <authorEmail>mael.guillossou@gmail.com</authorEmail>
+        <authorUrl>http://mael-g.fr.nf</authorUrl>
+        <version>1.0</version>
+        <description>Simple plugin that add a modal for link {modal]</description>
+        <files>
+                <filename plugin="modal">modal.php</filename>
+        </files>
+</extension>
